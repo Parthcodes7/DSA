@@ -1,3 +1,23 @@
+/*
+ * Problem: Check if a String is a Palindrome using Recursion
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given a string, check whether it is a palindrome or not using recursion. A string is a palindrome if it reads the same backwards as forwards.
+ *
+ * Example 1:
+ * Input: "ABCDCBA"
+ * Output: Palindrome (true)
+ *
+ * Example 2:
+ * Input: "TAKEUFORWARD"
+ * Output: Not Palindrome (false)
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N/2) ~ O(N) as character comparisons take place across half the length.
+ * - Space Complexity: O(N/2) ~ O(N) recursion call stack memory.
+ */
+
 #include <bits/stdc++.h>
 #include <string>
 using namespace std;

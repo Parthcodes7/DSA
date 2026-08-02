@@ -1,3 +1,23 @@
+/*
+ * Problem: Reverse an Array using Recursion
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an array of integers, reverse the elements of the array in-place using recursion (two-pointer recursive approach).
+ *
+ * Example 1:
+ * Input: N = 5, arr = [5, 4, 3, 2, 1]
+ * Output: [1, 2, 3, 4, 5]
+ *
+ * Example 2:
+ * Input: N = 4, arr = [10, 20, 30, 40]
+ * Output: [40, 30, 20, 10]
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N/2) ~ O(N) as we perform swaps for half the array length.
+ * - Space Complexity: O(N/2) ~ O(N) auxiliary recursion stack space.
+ */
+
 #include <bits/stdc++.h>
 #include <string>
 using namespace std;

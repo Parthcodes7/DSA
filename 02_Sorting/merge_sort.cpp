@@ -1,3 +1,25 @@
+/*
+ * Problem: Merge Sort
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an array of integers, sort the array using the Merge Sort algorithm (Divide and Conquer).
+ * Continuously divide the array in half until base cases of size 1 are reached, then merge the sorted halves back together.
+ *
+ * Example 1:
+ * Input: N = 5, arr = [5, 2, 8, 4, 1]
+ * Output: [1, 2, 4, 5, 8]
+ * Explanation: The array is recursively divided into halves and merged in ascending order.
+ *
+ * Example 2:
+ * Input: N = 6, arr = [12, 11, 13, 5, 6, 7]
+ * Output: [5, 6, 7, 11, 12, 13]
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N * log N) across all cases (best, average, worst) due to logarithmic divisions and linear merging.
+ * - Space Complexity: O(N) auxiliary space required for the temporary merging array.
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 

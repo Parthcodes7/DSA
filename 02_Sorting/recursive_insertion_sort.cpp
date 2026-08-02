@@ -1,3 +1,25 @@
+/*
+ * Problem: Recursive Insertion Sort
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an array of N integers, implement Insertion Sort recursively to sort the array in non-decreasing order.
+ * Recursively sort the prefix of length i, then insert the (i+1)-th element into its correct position in the sorted prefix.
+ *
+ * Example 1:
+ * Input: N = 6, arr = [13, 46, 24, 52, 20, 9]
+ * Output: [9, 13, 20, 24, 46, 52]
+ * Explanation: Elements from left to right are recursively inserted into the sorted subsection.
+ *
+ * Example 2:
+ * Input: N = 4, arr = [4, 3, 2, 1]
+ * Output: [1, 2, 3, 4]
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N^2) worst and average cases. O(N) best case when already sorted.
+ * - Space Complexity: O(N) auxiliary stack memory due to recursive calls.
+ */
+
 #include<bits/stdc++.h>
 using namespace std;
 

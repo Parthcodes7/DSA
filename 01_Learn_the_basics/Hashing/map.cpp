@@ -1,3 +1,22 @@
+/*
+ * Problem: Count Element Frequencies using STL Map / Unordered Map
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an array of integers or words, calculate the frequency of each element using C++ STL `std::map` or `std::unordered_map`.
+ *
+ * Example 1:
+ * Input: arr = [10, 5, 10, 15, 10, 5]
+ * Output: 
+ * 5 -> 2 times
+ * 10 -> 3 times
+ * 15 -> 1 time
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N * log N) when inserting N elements into std::map, or O(N) average case with std::unordered_map.
+ * - Space Complexity: O(K) where K is the number of unique elements stored in the map.
+ */
+
 #include<bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,25 @@
+/*
+ * Problem: Recursive Bubble Sort
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an array of N integers, implement Bubble Sort recursively to sort the array in ascending order.
+ * In each recursive call, perform a pass of adjacent comparisons to push the largest element to the end, then recur for the remaining prefix of length N-1.
+ *
+ * Example 1:
+ * Input: N = 6, arr = [13, 46, 24, 52, 20, 9]
+ * Output: [9, 13, 20, 24, 46, 52]
+ * Explanation: Recursive bubbling places the largest remaining element at the end in each step.
+ *
+ * Example 2:
+ * Input: N = 3, arr = [5, 1, 3]
+ * Output: [1, 3, 5]
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N^2) worst and average case due to N recursive steps each requiring up to N comparisons.
+ * - Space Complexity: O(N) auxiliary call stack space for recursive function invocations.
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
