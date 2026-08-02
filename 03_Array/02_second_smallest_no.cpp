@@ -1,3 +1,26 @@
+/*
+ * Problem: Find the Second Smallest Element in an Array without sorting
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an array of integers, find the second smallest element in the array without sorting it.
+ * If no second smallest element exists, return INT_MAX.
+ *
+ * Example 1:
+ * Input: n = 6, arr = [1, 2, 4, 7, 7, 5]
+ * Output: 2
+ * Explanation: The smallest element is 1 and the second smallest element is 2.
+ *
+ * Example 2:
+ * Input: n = 3, arr = [10, 10, 10]
+ * Output: No second smallest element exists
+ * Explanation: All elements are identical, so a second smallest element does not exist.
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N), single pass optimal solution traversing the array once.
+ * - Space Complexity: O(1), using constant auxiliary space.
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 

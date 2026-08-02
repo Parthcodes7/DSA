@@ -1,3 +1,26 @@
+/*
+ * Problem: Find the Second Largest Element in an Array without sorting
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an array of integers, find the second largest element in the array without sorting it.
+ * If no second largest element exists, return INT_MIN.
+ *
+ * Example 1:
+ * Input: n = 6, arr = [1, 2, 4, 7, 7, 5]
+ * Output: 5
+ * Explanation: The largest element is 7 and the second largest element is 5.
+ *
+ * Example 2:
+ * Input: n = 3, arr = [10, 10, 10]
+ * Output: No second largest element exists
+ * Explanation: All elements are identical, so a second largest element does not exist.
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N), single pass optimal solution traversing the array once.
+ * - Space Complexity: O(1), using constant auxiliary space.
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 

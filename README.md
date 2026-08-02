@@ -11,3 +11,8 @@ This repository contains my Data Structures and Algorithms practice code.
   - Insertion Sort (Iterative and Recursive)
   - Merge Sort
   - Quick Sort
+- **03_Array/**: Array solutions from Striver's A2Z DSA Course.
+  - Largest Element in an Array
+  - Second Largest & Second Smallest Element
+  - Check if Array is Sorted
+  - Remove Duplicates from Sorted Array
