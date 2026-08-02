@@ -19,7 +19,7 @@ void merge(vector<int> &arr, int low, int mid,int high){
         temp.push_back(arr[left]);
         left++;
     }
-    while(right<=mid){
+    while(right<=high){
         temp.push_back(arr[right]);
         right++;
     }
@@ -44,8 +44,7 @@ void mergesort(vector<int> & arr, int n){
 
 int main() {
     vector<int> arr = {5, 2, 8, 4, 1};
-    Solution sol;
-    sol.mergeSort(arr, 0, arr.size() - 1);
+    mergesort(arr, arr.size());
     for (int x : arr)
         cout << x << " ";
     cout << endl;
