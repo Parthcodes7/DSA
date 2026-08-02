@@ -1,3 +1,28 @@
+/*
+ * Problem: Pattern 10 - Half Diamond Star Pattern
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an integer N, print a half diamond star pattern where row lengths grow from 1 to N stars and then shrink back down to 1.
+ *
+ * Example 1:
+ * Input: N = 5
+ * Output:
+ * *
+ * * *
+ * * * *
+ * * * * *
+ * * * * * *
+ * * * * *
+ * * * *
+ * * *
+ * *
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N^2) iterations across 2*N-1 rows.
+ * - Space Complexity: O(1) constant memory usage.
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 // Method 1

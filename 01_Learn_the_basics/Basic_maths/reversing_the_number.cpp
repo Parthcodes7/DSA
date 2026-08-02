@@ -1,10 +1,23 @@
 /*
-Problem: Reverse a Number
-Platform: Striver A2Z
-
-Time Complexity: O(log10(n))
-Space Complexity: O(1)
-*/
+ * Problem: Reverse a Number (Digits)
+ * Source: Striver's A2Z DSA Course / takeuforward & LeetCode #7
+ *
+ * Problem Statement:
+ * Given a signed 32-bit integer N, return the number obtained by reversing its digits.
+ * Handle overflow cases appropriately by returning 0 if reversing exceeds standard 32-bit integer ranges.
+ *
+ * Example 1:
+ * Input: N = 7789
+ * Output: 9877
+ *
+ * Example 2:
+ * Input: N = -123
+ * Output: -321
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(log10(N)) corresponding to digit extraction steps.
+ * - Space Complexity: O(1) constant memory.
+ */
 
 #include <iostream>
 using namespace std;

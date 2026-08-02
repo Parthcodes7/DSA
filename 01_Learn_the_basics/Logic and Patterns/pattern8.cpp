@@ -1,3 +1,31 @@
+/*
+ * Problem: Pattern 8 - Inverted Star Pyramid Pattern
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an integer N, print an inverted centered star pyramid of N rows where stars taper from 2*N-1 down to 1 star.
+ *
+ * Example 1:
+ * Input: N = 5
+ * Output:
+ * *********
+ *  ******* 
+ *   *****  
+ *    ***   
+ *     *    
+ *
+ * Example 2:
+ * Input: N = 3
+ * Output:
+ * *****
+ *  *** 
+ *   *  
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N^2) iterations.
+ * - Space Complexity: O(1) constant extra space.
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 

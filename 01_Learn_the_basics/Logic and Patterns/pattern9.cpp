@@ -1,3 +1,27 @@
+/*
+ * Problem: Pattern 9 - Diamond Star Pattern
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an integer N, print a vertical symmetrical diamond star pattern of height 2*N by combining an upright star pyramid with an inverted star pyramid.
+ *
+ * Example 1:
+ * Input: N = 4
+ * Output:
+ *    *   
+ *   ***  
+ *  ***** 
+ * *******
+ * *******
+ *  ***** 
+ *   ***  
+ *    *   
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N^2) iterations for printing spaces and stars across 2*N rows.
+ * - Space Complexity: O(1) auxiliary space.
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 

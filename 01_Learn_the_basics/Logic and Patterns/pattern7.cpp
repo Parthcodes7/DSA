@@ -1,3 +1,31 @@
+/*
+ * Problem: Pattern 7 - Star Pyramid Pattern
+ * Source: Striver's A2Z DSA Course / takeuforward
+ *
+ * Problem Statement:
+ * Given an integer N, print a centered symmetrical star pyramid pattern of N rows with spaces padding left and right.
+ *
+ * Example 1:
+ * Input: N = 5
+ * Output:
+ *     *    
+ *    ***   
+ *   *****  
+ *  ******* 
+ * *********
+ *
+ * Example 2:
+ * Input: N = 3
+ * Output:
+ *   *  
+ *  *** 
+ * *****
+ *
+ * Complexity Analysis:
+ * - Time Complexity: O(N^2) iterations across rows and column spacing/stars.
+ * - Space Complexity: O(1) constant space.
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
