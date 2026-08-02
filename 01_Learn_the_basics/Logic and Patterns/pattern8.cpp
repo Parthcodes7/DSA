@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 8 - Inverted Star Pyramid Pattern
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print an inverted centered star pyramid of N rows where stars taper from 2*N-1 down to 1 star.

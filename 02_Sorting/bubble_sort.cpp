@@ -1,6 +1,5 @@
 /*
  * Problem: Bubble Sort
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of N integers, write a program to perform Bubble Sort on the array in ascending order.

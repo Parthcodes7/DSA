@@ -1,6 +1,5 @@
 /*
  * Problem: Recursive Insertion Sort
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of N integers, implement Insertion Sort recursively to sort the array in non-decreasing order.

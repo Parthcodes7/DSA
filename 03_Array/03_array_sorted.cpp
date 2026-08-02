@@ -1,6 +1,5 @@
 /*
  * Problem: Check if an Array is Sorted
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of size n, write a program to check if the given array is sorted in ascending order or not.

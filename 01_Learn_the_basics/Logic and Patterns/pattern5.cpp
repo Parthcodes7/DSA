@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 5 - Inverted Right-Angled Triangle Pattern
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print an inverted right-angled triangle of stars (*), where row 1 has N stars and row N has 1 star.

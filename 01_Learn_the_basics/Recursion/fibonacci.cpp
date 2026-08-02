@@ -1,6 +1,5 @@
 /*
  * Problem: Print Nth Fibonacci Number / Fibonacci Series using Recursion
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, compute the Nth Fibonacci number using recursion. In a Fibonacci sequence, each number is the sum of the two preceding ones (0, 1, 1, 2, 3, 5, 8...).

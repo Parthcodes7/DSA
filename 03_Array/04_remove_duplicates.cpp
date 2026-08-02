@@ -1,6 +1,5 @@
 /*
  * Problem: Remove Duplicates from a Sorted Array
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given a sorted integer array, remove the duplicates in-place such that each unique element appears only once.

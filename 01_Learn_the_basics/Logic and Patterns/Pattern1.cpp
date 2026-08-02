@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 1 - Rectangular Star Pattern
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print a rectangular grid consisting of N rows and N columns of stars (*).

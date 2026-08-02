@@ -1,6 +1,5 @@
 /*
  * Problem: Find the Second Smallest Element in an Array without sorting
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of integers, find the second smallest element in the array without sorting it.

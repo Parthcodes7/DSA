@@ -1,6 +1,5 @@
 /*
  * Problem: Insertion Sort
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of N integers, perform Insertion Sort to sort the array in ascending order.

@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 6 - Inverted Numbered Right Pyramid
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print an inverted right-angled numerical pyramid where the first row prints numbers from 1 to N, decreasing in length by 1 each row.

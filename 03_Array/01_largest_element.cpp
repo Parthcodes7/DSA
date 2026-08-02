@@ -1,6 +1,5 @@
 /*
  * Problem: Find the Largest Element in an Array
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of integers, find the largest element in the array.

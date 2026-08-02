@@ -1,6 +1,5 @@
 /*
  * Problem: Print Name N times using Recursion
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Print the given name string N times using recursion without using loops.

@@ -1,6 +1,5 @@
 /*
  * Problem: Count Digits in a Number
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, count the number of digits in N.

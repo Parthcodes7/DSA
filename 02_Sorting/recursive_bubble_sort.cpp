@@ -1,6 +1,5 @@
 /*
  * Problem: Recursive Bubble Sort
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of N integers, implement Bubble Sort recursively to sort the array in ascending order.

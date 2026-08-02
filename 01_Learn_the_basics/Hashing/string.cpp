@@ -1,6 +1,5 @@
 /*
  * Problem: Character Hashing (Count Frequency of Characters in a String)
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given a string and several character queries, find out how many times each queried character appears in the string using frequency arrays (hashing).

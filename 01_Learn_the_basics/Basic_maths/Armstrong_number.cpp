@@ -1,6 +1,5 @@
 /*
  * Problem: Check Armstrong Number
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, check whether it is an Armstrong number or not.

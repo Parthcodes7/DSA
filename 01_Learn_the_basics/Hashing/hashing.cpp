@@ -1,6 +1,5 @@
 /*
  * Problem: Count Frequency of Array Elements (Integer Hashing)
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of integers, count the frequency of given queries using array hashing / hash map.

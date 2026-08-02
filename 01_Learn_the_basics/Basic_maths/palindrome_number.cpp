@@ -1,6 +1,5 @@
 /*
  * Problem: Check Palindrome Number
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, return true if N is a palindrome number and false otherwise.

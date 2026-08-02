@@ -1,6 +1,5 @@
 /*
  * Problem: Reverse a Number (Digits)
- * Source: Striver's A2Z DSA Course / takeuforward & LeetCode #7
  *
  * Problem Statement:
  * Given a signed 32-bit integer N, return the number obtained by reversing its digits.

@@ -1,6 +1,5 @@
 /*
  * Problem: Sum of First N Natural Numbers using Recursion
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given a number N, calculate the sum of the first N natural numbers using recursion (1 + 2 + ... + N).

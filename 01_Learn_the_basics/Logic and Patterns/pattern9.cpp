@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 9 - Diamond Star Pattern
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print a vertical symmetrical diamond star pattern of height 2*N by combining an upright star pyramid with an inverted star pyramid.

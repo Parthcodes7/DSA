@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 4 - Right-Angled Number Pyramid II
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print a right-angled triangle where row i (1-indexed) repeats the number i, exactly i times.

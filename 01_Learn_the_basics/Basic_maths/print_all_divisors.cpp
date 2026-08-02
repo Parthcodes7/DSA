@@ -1,6 +1,5 @@
 /*
  * Problem: Print All Divisors of a Number
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print all of its divisors in ascending order.

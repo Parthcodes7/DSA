@@ -1,6 +1,5 @@
 /*
  * Problem: Print 1 to N using Recursion
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Print numbers from 1 to N using recursion without using any loop.

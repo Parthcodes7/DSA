@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 2 - Right-Angled Triangle Pattern
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print a right-angled triangle consisting of N rows of stars (*), where the i-th row has i stars.

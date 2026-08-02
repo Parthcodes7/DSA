@@ -1,6 +1,5 @@
 /*
  * Problem: Quick Sort
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of integers, sort the array using the Quick Sort algorithm.

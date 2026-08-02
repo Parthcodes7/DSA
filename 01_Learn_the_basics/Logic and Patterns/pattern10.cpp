@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 10 - Half Diamond Star Pattern
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print a half diamond star pattern where row lengths grow from 1 to N stars and then shrink back down to 1.

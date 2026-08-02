@@ -1,6 +1,5 @@
 /*
  * Problem: Find Greatest Common Divisor (GCD / HCF)
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given two integers N1 and N2, find their Greatest Common Divisor (GCD) or Highest Common Factor (HCF).

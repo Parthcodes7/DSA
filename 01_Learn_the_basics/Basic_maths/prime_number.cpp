@@ -1,6 +1,5 @@
 /*
  * Problem: Check if a Number is Prime
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, check whether it is a prime number or not. A prime number is a natural number greater than 1 having exactly two factors: 1 and the number itself.

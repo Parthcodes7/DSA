@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 3 - Right-Angled Number Pyramid
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print a right-angled triangular pattern where each row i prints numbers from 1 up to i.

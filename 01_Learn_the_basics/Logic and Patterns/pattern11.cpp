@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 11 - Binary Number Triangle Pattern
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print a right-angled triangle pattern of alternating 1s and 0s starting with 1 on odd-indexed rows and 0 on even-indexed rows.

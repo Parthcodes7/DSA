@@ -1,6 +1,5 @@
 /*
  * Problem: Reverse an Array using Recursion
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of integers, reverse the elements of the array in-place using recursion (two-pointer recursive approach).

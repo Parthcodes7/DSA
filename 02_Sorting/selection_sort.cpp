@@ -1,6 +1,5 @@
 /*
  * Problem: Selection Sort
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an array of N integers, perform Selection Sort to arrange the elements in ascending order.

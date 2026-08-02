@@ -1,6 +1,5 @@
 /*
  * Problem: Factorial of a Number using Recursion
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given a positive integer N, compute its factorial using recursion.

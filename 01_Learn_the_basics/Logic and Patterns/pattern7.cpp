@@ -1,6 +1,5 @@
 /*
  * Problem: Pattern 7 - Star Pyramid Pattern
- * Source: Striver's A2Z DSA Course / takeuforward
  *
  * Problem Statement:
  * Given an integer N, print a centered symmetrical star pyramid pattern of N rows with spaces padding left and right.
